@@ -1,6 +1,6 @@
 # Dreem RAMP starting kit
 
-_Authors: Lucy Liu_
+_Author: Lucy Liu_
 
 This challenge was adapted from the 'Predict brain deep sleep slow oscillation'
 challenge on [Challenge data](https://challengedata.ens.fr/challenges/10).
