@@ -1,5 +1,7 @@
 # Dreem RAMP starting kit
 
+[![Build Status](https://travis-ci.org/ramp-kits/dreem.svg?branch=master)](https://travis-ci.org/ramp-kits/dreem)
+
 _Author: Lucy Liu_
 
 This challenge was adapted from the 'Predict brain deep sleep slow oscillation'
